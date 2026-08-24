@@ -20,13 +20,18 @@ for i in range(2, 21, 2):
 for i in range(1, 20, 2):
     print(i)
 
+
+
+
 # Program 5: Table of 5
 for i in range(1, 11):
     print("5 x", i, "=", 5 * i)
 
-# Program 6: User Input Table ⭐
-num = int(input("Enter a number: "))
 
+
+
+# Program 6: User Input Table 
+num = int(input("Enter a number: "))
 for i in range(1, 11):
     print(num, "x", i, "=", num * i)
 
