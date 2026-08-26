@@ -1,4 +1,18 @@
+'''
+Author: "Aditya Keshri"
+Program: Print Butterfly Pattern
 
+Output:
+********
+*      *
+*      *
+*      *
+*      *
+*      *
+*      *
+********
+
+'''
 
 
 
