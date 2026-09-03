@@ -1,3 +1,10 @@
+"""
+Program: 13_args_basics
+Author: Aditya Keshri
+Description: Understanging args
+"""
+
+
 # *args allows a function to accept multiple positional arguments
 
 def add_numbers(*args):
