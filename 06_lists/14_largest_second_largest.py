@@ -1,3 +1,11 @@
+'''
+program: " Largest_second_largest Number"
+Author: "Aditya Keshri"
+Description: "Find Largest and Second Largest Without max() / sort()"
+'''
+
+
+
 numbers = [25, 10, 45, 67, 34, 89, 52]
 
 largest = float("-inf")
