@@ -1,0 +1,12 @@
+list1 = [10, 20, 30, 40, 50]
+list2 = [30, 40, 50, 60, 70]
+
+common = []
+
+for number in list1:
+    if number in list2 and number not in common:
+        common.append(number)
+
+print("List 1:", list1)
+print("List 2:", list2)
+print("Common elements:", common)
