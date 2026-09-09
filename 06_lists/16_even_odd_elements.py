@@ -1,5 +1,5 @@
 '''
-Program: sum_and_average
+Program: Odd And Even
 Author: "Aditya Keshri"
 Description: Finds The Odd And Even of the numbers
 '''
